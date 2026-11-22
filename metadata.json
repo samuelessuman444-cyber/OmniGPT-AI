@@ -1,0 +1,6 @@
+{
+  "name": "GenGPT",
+  "description": "GenGPT — Multimodal AI workspace for code & live app canvas, vector & procedural visual art, downloadable file synthesis, real-time voice & translation, podcast speech, music composition, and web-grounded research.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
